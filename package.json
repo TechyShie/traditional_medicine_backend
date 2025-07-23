@@ -1,16 +1,14 @@
 {
   "name": "traditional_medicine_backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mock API for traditional medicine remedies",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "json-server --watch db.json --port 10000"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Your Name",
+  "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "json-server": "^0.17.3"
   }
 }
