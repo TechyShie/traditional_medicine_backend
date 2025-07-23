@@ -1,0 +1,125 @@
+{
+  "remedies": [
+    {
+      "id": 1,
+      "ailment": "Cough",
+      "localName": "Mwarubaine",
+      "scientificName": "Azadirachta indica (Neem)",
+      "community": "Kikuyu",
+      "preparation": "Boil 5-7 leaves in 2 cups of water for 10 minutes.",
+      "usage": "Drink ½ cup twice daily for 3 days.",
+      "warnings": "Avoid during pregnancy. May cause nausea if overused.",
+      "image": "mwarubaine.jpg",
+      "safetyTags": ["child-safe"],
+      "contribution": "Verified by Elder Wanjiku (Kikuyu Herbalist)"
+    },
+    {
+      "id": 2,
+      "ailment": "Fever",
+      "localName": "Oseno",
+      "scientificName": "Aloe vera",
+      "community": "Luo",
+      "preparation": "Extract fresh gel from leaves.",
+      "usage": "Apply gel on forehead and temples every 2 hours.",
+      "warnings": "Do not ingest for children under 5. Avoid open wounds.",
+      "image": "aloe_vera.jpg",
+      "safetyTags": ["external-use"]
+    },
+    {
+      "id": 3,
+      "ailment": "Stomachache",
+      "localName": "Muthiga",
+      "scientificName": "Warburgia ugandensis (African Greenheart)",
+      "community": "Luhya",
+      "preparation": "Chew a small piece of bark (size of a pea).",
+      "usage": "Once daily for 2 days.",
+      "warnings": "May cause dizziness if overused.",
+      "image": "muthiga.jpg",
+      "safetyTags": ["adults-only"]
+    },
+    {
+      "id": 4,
+      "ailment": "Malaria",
+      "localName": "Muthee",
+      "scientificName": "Carissa edulis (Num-Num)",
+      "community": "Kamba",
+      "preparation": "Boil 10g of crushed roots in 3 cups of water for 15 minutes.",
+      "usage": "Drink 1 cup every 6 hours until symptoms subside.",
+      "warnings": "Consult a doctor if fever persists beyond 2 days.",
+      "image": "muthee.jpg",
+      "safetyTags": []
+    },
+    {
+      "id": 5,
+      "ailment": "Headache",
+      "localName": "Mukombero",
+      "scientificName": "Clausena anisata (Horsewood)",
+      "community": "Kisii",
+      "preparation": "Crush fresh leaves and inhale the scent.",
+      "usage": "Inhale for 5 minutes. Repeat after 1 hour if needed.",
+      "warnings": "May trigger allergies in sensitive individuals.",
+      "image": "mukombero.jpg",
+      "safetyTags": ["aromatic-use"]
+    },
+    {
+      "id": 6,
+      "ailment": "Wounds",
+      "localName": "Ombasa",
+      "scientificName": "Bidens pilosa (Blackjack)",
+      "community": "Luo",
+      "preparation": "Grind fresh leaves into a paste.",
+      "usage": "Apply directly to the wound and cover with a clean cloth.",
+      "warnings": "Discontinue if irritation occurs.",
+      "image": "ombasa.jpg",
+      "safetyTags": ["antiseptic"]
+    },
+    {
+      "id": 7,
+      "ailment": "Toothache",
+      "localName": "Mukinduri",
+      "scientificName": "Zanthoxylum chalybeum (Knobwood)",
+      "community": "Kikuyu",
+      "preparation": "Chew a small piece of the bark.",
+      "usage": "Hold near the affected tooth for 5 minutes.",
+      "warnings": "Spit out saliva; do not swallow.",
+      "image": "mukinduri.jpg",
+      "safetyTags": ["numbing-effect"]
+    },
+    {
+      "id": 8,
+      "ailment": "Skin Rash",
+      "localName": "Lisoda",
+      "scientificName": "Solanum incanum (Thorn Apple)",
+      "community": "Luhya",
+      "preparation": "Mix crushed berries with coconut oil.",
+      "usage": "Apply thinly to the rash twice daily.",
+      "warnings": "Test on a small skin area first. Avoid eyes.",
+      "image": "lisoda.jpg",
+      "safetyTags": ["topical-only"]
+    },
+    {
+      "id": 9,
+      "ailment": "Indigestion",
+      "localName": "Muthaa",
+      "scientificName": "Vernonia amygdalina (Bitter Leaf)",
+      "community": "Kamba",
+      "preparation": "Steep 3 fresh leaves in hot water for 5 minutes.",
+      "usage": "Drink 1 cup after meals.",
+      "warnings": "Excessive use may cause diarrhea.",
+      "image": "muthaa.jpg",
+      "safetyTags": ["bitter-taste"]
+    },
+    {
+      "id": 10,
+      "ailment": "Back Pain",
+      "localName": "Murera",
+      "scientificName": "Croton megalocarpus",
+      "community": "Kikuyu",
+      "preparation": "Warm the leaves and tie them over the painful area.",
+      "usage": "Leave for 30 minutes. Repeat daily.",
+      "warnings": "Do not apply on broken skin.",
+      "image": "murera.jpg",
+      "safetyTags": ["heat-therapy"]
+    }
+  ]
+}
