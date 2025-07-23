@@ -1,14 +1,14 @@
 {
   "name": "traditional_medicine_backend",
   "version": "1.0.0",
-  "description": "A mock API for traditional medicine remedies",
+  "description": "Mock API for traditional medicine remedies",
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
   },
-  "author": "Your Name",
-  "license": "MIT",
   "dependencies": {
     "json-server": "^0.17.3"
-  }
+  },
+  "author": "",
+  "license": "MIT"
 }
